@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="JasperReports" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="userlib\commons-collections-3.2.2.jar" />
+      <file path="userlib\commons-collections-3.2.2.jar.JasperReports.RequiredLib" />
+      <file path="userlib\commons-digester-2.1.jar" />
+      <file path="userlib\commons-digester-2.1.jar.JasperReports.RequiredLib" />
+      <file path="userlib\commons-logging-1.2.jar" />
+      <file path="userlib\commons-logging-1.2.jar.JasperReports.RequiredLib" />
+      <file path="userlib\ipagochic.jar" />
+      <file path="userlib\ipagochic.jar.JasperReports.RequiredLib" />
+      <file path="userlib\ipamincho.jar" />
+      <file path="userlib\ipamincho.jar.JasperReports.RequiredLib" />
+      <file path="userlib\itext-2.1.7.js5.jar" />
+      <file path="userlib\itext-2.1.7.js5.jar.JasperReports.RequiredLib" />
+      <file path="userlib\jasperreports-6.4.0.jar" />
+      <file path="userlib\jasperreports-6.4.0.jar.JasperReports.RequiredLib" />
+      <file path="userlib\sampleforms.jar" />
+      <file path="userlib\sampleforms.jar.JasperReports.RequiredLib" />
+      <file path="javasource\jasperreports\actions\getSampleForm.java" />
+      <file path="javasource\jasperreports\actions\generatePDF.java" />
+    </files>
+  </modelerProject>
+</package>
