@@ -16,8 +16,8 @@
       <file path="userlib\ipamincho.jar.JasperReports.RequiredLib" />
       <file path="userlib\itext-2.1.7.js5.jar" />
       <file path="userlib\itext-2.1.7.js5.jar.JasperReports.RequiredLib" />
-      <file path="userlib\jasperreports-6.4.0.jar" />
-      <file path="userlib\jasperreports-6.4.0.jar.JasperReports.RequiredLib" />
+      <file path="userlib\jasperreports-6.8.1.jar" />
+      <file path="userlib\jasperreports-6.8.1.jar.JasperReports.RequiredLib" />
       <file path="userlib\sampleforms.jar" />
       <file path="userlib\sampleforms.jar.JasperReports.RequiredLib" />
       <file path="javasource\jasperreports\actions\getSampleForm.java" />

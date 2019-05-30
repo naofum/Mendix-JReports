@@ -39,4 +39,5 @@ This module supports:
 
 
 ## Version history
-0.1 first functions for JReports implemented
+- 1.0.0 release
+- 0.1 first functions for JReports implemented
