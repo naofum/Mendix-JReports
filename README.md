@@ -30,14 +30,15 @@ This module supports:
 - This module contains JasperReports library which is licensed under the LGPL (see. https://www.gnu.org/licenses/lgpl-3.0.en.html)
 - This module contains iText 2.1.7 library which is licensed under the MPL/GPL
 - This module contains Apache Commons library which is licensed under the Apache License 2.0
-- This module contains IPA fonts which is licensed under the IPA Font License
+- This module contains IPA fonts which is licensed under the IPA Font License (see. https://ipafont.ipa.go.jp/ipa_font_license_v1-html)
 
 
 ## Developers notes
-* Open the JReports.mpr in the Mendix Modeler.
+* Open the JReports.mpr in the Mendix Studio Pro.
 * Use *Deploy for Eclipse* option (F6) and you can then import this module as an Eclipse project to the Eclipse IDE.
 
 
 ## Version history
+- 2.0.0 converted to Mx 8.0.0
 - 1.0.0 release
 - 0.1 first functions for JReports implemented

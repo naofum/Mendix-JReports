@@ -6,6 +6,8 @@
     <files>
       <file path="userlib\commons-collections-3.2.2.jar" />
       <file path="userlib\commons-collections-3.2.2.jar.JasperReports.RequiredLib" />
+      <file path="userlib\commons-collections4-4.4.jar" />
+      <file path="userlib\commons-collections4-4.4.jar.JasperReports.RequiredLib" />
       <file path="userlib\commons-digester-2.1.jar" />
       <file path="userlib\commons-digester-2.1.jar.JasperReports.RequiredLib" />
       <file path="userlib\commons-logging-1.2.jar" />
